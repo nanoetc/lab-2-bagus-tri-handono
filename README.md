@@ -1,6 +1,25 @@
 #bagus tri handono - 312010170
 
-#tugas pertemuan ke 6 lab 2
+#tugas pertemuan ke 5 dan 6 
+
+![program ](https://github.com/nanoetc/lab-2-bagus-tri-handono/blob/master/lab%201/tugas%20pertemuan%20ke-5.py)jadi
+![hasil jadi](https://github.com/nanoetc/lab-1-bagus-tri-handono/blob/master/lab%201/1.png)
+untuk input nya menggunakan tulis seperti ini
+
+![input](https://github.com/nanoetc/lab-1-bagus-tri-handono/blob/master/lab%201/2.png)
+
+output
+
+![output](https://github.com/nanoetc/lab-1-bagus-tri-handono/blob/master/lab%201/3.png)
+
+untuk menampilkan input tadi kita tulis program nya menggunakan print=("")
+
+![input](https://github.com/nanoetc/lab-1-bagus-tri-handono/blob/master/lab%201/4.png)
+
+output
+
+![output](https://github.com/nanoetc/lab-1-bagus-tri-handono/blob/master/lab%201/5.png)
+
 
 contoh program penggunaan end
 ![program](https://github.com/nanoetc/lab-2-bagus-tri-handono/blob/master/lab%202/lab1%20penggunaan%20end.py)
